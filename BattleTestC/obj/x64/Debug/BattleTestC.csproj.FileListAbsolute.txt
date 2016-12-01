@@ -1,0 +1,6 @@
+c:\users\dross\documents\visual studio 2015\Projects\BattleTestC\BattleTestC\bin\x64\Debug\BattleTestC.dll
+c:\users\dross\documents\visual studio 2015\Projects\BattleTestC\BattleTestC\bin\x64\Debug\BattleTestC.pdb
+c:\users\dross\documents\visual studio 2015\Projects\BattleTestC\BattleTestC\bin\x64\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\dross\documents\visual studio 2015\Projects\BattleTestC\BattleTestC\bin\x64\Debug\ja\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\dross\documents\visual studio 2015\Projects\BattleTestC\BattleTestC\obj\x64\Debug\BattleTestC.dll
+c:\users\dross\documents\visual studio 2015\Projects\BattleTestC\BattleTestC\obj\x64\Debug\BattleTestC.pdb

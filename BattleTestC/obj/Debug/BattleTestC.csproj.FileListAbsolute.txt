@@ -1,0 +1,7 @@
+c:\users\dross\documents\visual studio 2015\Projects\BattleTestC\BattleTestC\bin\Debug\BattleTestC.dll
+c:\users\dross\documents\visual studio 2015\Projects\BattleTestC\BattleTestC\bin\Debug\BattleTestC.pdb
+c:\users\dross\documents\visual studio 2015\Projects\BattleTestC\BattleTestC\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\dross\documents\visual studio 2015\Projects\BattleTestC\BattleTestC\bin\Debug\ja\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\dross\documents\visual studio 2015\Projects\BattleTestC\BattleTestC\obj\Debug\BattleTestC.csprojResolveAssemblyReference.cache
+c:\users\dross\documents\visual studio 2015\Projects\BattleTestC\BattleTestC\obj\Debug\BattleTestC.dll
+c:\users\dross\documents\visual studio 2015\Projects\BattleTestC\BattleTestC\obj\Debug\BattleTestC.pdb
